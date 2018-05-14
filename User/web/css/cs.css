@@ -1,0 +1,87 @@
+            #left {
+				float: left;
+				width: 250px;
+				height: 940px;
+				background-color: steelblue;
+				
+			}
+			#left img{
+				display: block;
+				width: 70px;
+				height: 70px;
+				margin-left: 87px;
+				margin-top: 15px;
+			}
+			#left p{
+				margin-left: 101px;
+				color: white;
+			}
+			summary{      
+				outline: none;
+				margin-left: 18px;
+				margin-top: 24px;
+				color: white;
+			}
+			#right_top{
+				background-color:#f0f0f0;
+				width:1623px ;
+				height: 50px;
+				float: left;
+				border-bottom: 1px solid gray;
+			}
+			#right_top p{
+				float: right;
+				margin-top: 13px;
+				margin-right: 5px;
+			}
+			#right_top img{
+				display: block;
+				width: 35px;
+				height: 35px;
+				float: right;
+				margin-top: 6px;
+				margin-right: 10px;
+			}
+			#message{
+				color: gray;
+				font-size: 18px;
+				float: right;
+				margin-top: 12px;
+				margin-right: 91px;
+			}
+			#right {
+				background-color:#f0f0f0;
+				float: left;
+				width: 1623px;
+				height: 890px;
+			}
+			ul li a{
+				margin-left: 50px;
+			}
+			#frame{
+				background: white;
+				width: 1500px;
+				height: 838px;
+				margin: auto;
+				margin-top: 26px;
+				
+			}
+			#frame span{
+				padding-left: 80px;
+			}
+			#second{
+				margin-left: 149px;
+				margin-top: 5px;
+			}
+			table{
+				
+				margin-top: 50px;
+				margin: auto;
+			}
+			thead tr{
+				height: 25px;
+			}
+			tbody tr td{
+				height: 45px;
+			}
+  
